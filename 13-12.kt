@@ -1,4 +1,4 @@
-/*import java.io.File
+import java.io.File
 class Player (_name:String,
               var healthPoints: Int = 100,
               var isBlessed: Boolean,
@@ -47,4 +47,4 @@ class Player (_name:String,
         }
     fun castFireball(numFireball: Int = 2) =
         println("橫空變出一杯火球" + "(x$numFireball)")
-}*/
+}
