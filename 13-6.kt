@@ -1,4 +1,4 @@
-/*fun main() {
+fun main() {
     val player = Player("Madrigal")
     player.castFireball()
 
@@ -10,4 +10,4 @@
 private  fun  printPlayerStatus(player: Player){
     println("光環顏色:${player.auraColor()}" + " 幸運嗎?${if (player.isBlessed) "是的" else "否，他很背"}")
     println("${player.name} ${player.formatHealthStatus()}")
-}*/
+}
